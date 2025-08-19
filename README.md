@@ -1,5 +1,5 @@
 hi, dexterdev here, this is my github
-(i know py, html and a little of c)
+(i know py, html and go)
 
 <!---
 DexterDv098/DexterDv098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
